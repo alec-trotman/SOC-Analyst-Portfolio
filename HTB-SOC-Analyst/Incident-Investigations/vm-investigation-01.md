@@ -37,6 +37,10 @@ Review and triage security alerts using TheHive to determine whether observed ac
 ![SCDC general](images/SCDC-general.png)
 
 
+
+
+
+
  
 ### Alert 2: DEV-021.insight.local (Mimikatz Detection)
 - Alert Source (agent_name): insight/svc_deployer
