@@ -44,7 +44,8 @@ Review and triage security alerts using TheHive to determine whether observed ac
       - IP 103.112.60.117
       - IP 172.16.30.18
       - Hostname: DEV-021.insight.local  
-   
+
+   [mimikatz detection](/image/mimikatz-detection)
 ---
 
 ## Analysis
