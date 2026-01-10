@@ -31,6 +31,10 @@ Review and triage security alerts using TheHive to determine whether observed ac
       - Destination IP: fe80:0:0:0:4535:7f0:7fe0:e8c5
       - Destination Port: 135
    - Location: EventChannel
+
+![SCDC detection](images/SCDC-detections.png)
+
+
  
 ### Alert 2: DEV-021.insight.local (Mimikatz Detection)
 - Alert Source (agent_name): insight/svc_deployer
