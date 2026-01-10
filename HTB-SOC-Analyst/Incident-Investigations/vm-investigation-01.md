@@ -33,6 +33,7 @@ Review and triage security alerts using TheHive to determine whether observed ac
    - Location: EventChannel
 
 ![SCDC detection](images/SCDC-detections.png)
+
 ![SCDC general](images/SCDC-general.png)
 
  
