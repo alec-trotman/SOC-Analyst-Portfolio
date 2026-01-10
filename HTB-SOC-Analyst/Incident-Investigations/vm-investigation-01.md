@@ -1,10 +1,7 @@
 # Incident Investigation: <Short Descriptive Title>
 
 ## Objective
-Briefly state what you were investigating and why.
-
-Example:
-Investigate suspicious authentication activity detected on a Linux virtual machine.
+To investigate an attack that was recorded in TheHive to understand the different tactics attackers use and what it will look like in TheHive. 
 
 ---
 
