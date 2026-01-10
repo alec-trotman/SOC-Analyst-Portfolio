@@ -7,7 +7,7 @@ To investigate an attack that was recorded in TheHive to understand the differen
 
 ## Environment
 - Platform: Hack The Box – SOC Analyst Path
-- System(s): <Windows / Linux VM>
+- System(s): Linux VM
 - Tools Used: <SIEM, Event Viewer, Terminal, etc.>
 - Log Sources: <Security logs, auth.log, Sysmon, etc.>
 
