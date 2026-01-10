@@ -46,6 +46,8 @@ Review and triage security alerts using TheHive to determine whether observed ac
       - Hostname: DEV-021.insight.local  
 
    ![mimikatz detection](images/mimikatz-detection.png)
+
+  ![mimikatz ip](images/mimikatz-ips.png)
 ---
 
 ## Analysis
