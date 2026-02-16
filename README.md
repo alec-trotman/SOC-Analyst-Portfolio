@@ -8,5 +8,5 @@ This repository documents hands-on security investigations and SOC-style labs co
 -Basic security automation
 
 ## Labs & Projects
--Malware Alert Triage & Incident Investigation Lab (Hack The Box SOC Analyst Path)  
+### 1.) Malware Alert Triage & Incident Investigation Lab (Hack The Box SOC Analyst Path)  
 https://github.com/alec-trotman/SOC-Analyst-Portfolio/blob/main/HTB-SOC-Analyst/Incident-Investigations/vm-investigation-01.md
