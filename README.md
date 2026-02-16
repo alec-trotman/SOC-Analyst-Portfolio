@@ -8,3 +8,4 @@ This repository documents hands-on security investigations and SOC-style labs co
 -Basic security automation
 
 ## Labs & Projects
+https://github.com/alec-trotman/SOC-Analyst-Portfolio/blob/main/HTB-SOC-Analyst/Incident-Investigations/vm-investigation-01.md
